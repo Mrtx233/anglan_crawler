@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8756861-eadc-4c24-9c55-5a5cc4c21253" name="更改" comment="废弃项目 最后一次更新">
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop-匹配价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop-未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/cutiekillshop_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/wp-beletras-匹配价格(价格更新)0623.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/wp-beletras-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/20260621_164805年轻女裙/wp-beletras_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/20260622_173304/cutiekillshop_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/20260622_173304/cutiekillshop_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/20260622_173304/cutiekillshop_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/20260622_173304/cutiekillshop_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/beletras.com_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/wp-beletras.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/beletras.com/cutiekillshop_Dresses/合并/wp-beletras.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/20260623_140659/sexikinis_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/20260623_140659/sexikinis_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/20260623_140659/sexikinis_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/20260623_140659/sexikinis_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/sexikinis_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/shopify-wp-sexikinis_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/shopify-wp-sexikinis_原价_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/wp-sexikinis_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis/合并/wp-sexikinis_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/sexikinis_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/sexikinis_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/sexikinis_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/sexikinis_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/sexikinis_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/wp-sexikinis_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis2/20260703_115037/wp-sexikinis_价格匹配2补四个价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis详情/20260630_134714/sexikinis_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis详情/20260630_134714/sexikinis_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis详情/20260630_134714/sexikinis_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/cytheras.com/sexikinis详情/20260630_134714/sexikinis_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/desiqlo/20260622_161737/desiqlo_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/desiqlo/20260622_161737/desiqlo_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/desiqlo/20260622_161737/desiqlo_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/desiqlo/20260622_161737/desiqlo_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/dmi-market/20260622_161602/dmi-market_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/dmi-market/20260622_161602/dmi-market_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/dmi-market/20260622_161602/dmi-market_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/dmi-market/20260622_161602/dmi-market_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/jupiterbmyltd/20260622_161625/jupiterbmyltd_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/jupiterbmyltd/20260622_161625/jupiterbmyltd_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/jupiterbmyltd/20260622_161625/jupiterbmyltd_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/jupiterbmyltd/20260622_161625/jupiterbmyltd_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/dromedas.com_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_Description更新.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_Description更新2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_价格匹配删除dmi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_价格更新06261715.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_价格更新06261739.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/dromedas.com/合并/wp-dromedas.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/etherealloft.com/wp-timjewelercom_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/etherealloft.com/wp-timjewelercom_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/etherealloft.com/timjeweler.com/20260629_143333/timjewelercom_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/wp-fynaras-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/wp-fynaras-匹配价格（新06261744）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/wp-fynaras-匹配价格（新）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/wp-fynaras-原价(新).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/wp-fynaras-原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments-匹配价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments-未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/fynaras.com/20260621_145702童装/yawoogarments_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_原价 .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/socksmith_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/wp-socksmith_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/helixwood.com/socksmith.com_/20260630_113636/wp-socksmith_原价 .csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/hyishop.com  （原价）/blinged-brushes.myshopify.com.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/kelobloom-原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/redlandcotton_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/wp-kelobloom-匹配价格-合并+更新.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/wp-kelobloom-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/合并-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/合并-匹配价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/20260621半成品/合并-未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_原价_拆分_副本.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/sundaycitizen_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/wp-kelobloom_价格匹配（补）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/kelobloom_补原sundaycitizen/20260622_102039/wp-kelobloom_原价（补）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/wp-kelobloom-匹配价格（价格更新）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/WP-价格表-新202506.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/shopify-wp-kelobloom-匹配价格（新增 来自mcrays.com）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/wp-kelobloom-匹配价格（价格更新-纯价格）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/wp-kelobloom-匹配价格（价格更新）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/wp-kelobloom-匹配价格（新增 来自mcrays.com）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/kelobloom-匹配价格（新增 来自mcrays.com）_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/kelobloom-匹配价格（新增 来自mcrays.com）_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/kelobloom-匹配价格（新增 来自mcrays.com）_styles_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/kelobloom-匹配价格（新增 来自mcrays.com）_styles_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/wp-kelobloom-匹配价格（新增 来自mcrays.com）_styles_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/新建文件夹/wp-kelobloom-匹配价格（新增 来自mcrays.com）_更新sku.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/kelobloom.com/比价/比价脚本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/shopunderstatement/20260624_130959/shopunderstatement_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/shopunderstatement/20260624_130959/shopunderstatement_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/shopunderstatement/20260624_130959/shopunderstatement_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/shopunderstatement/20260624_130959/shopunderstatement_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/slipintosoft/20260624_130943/slipintosoft_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/slipintosoft/20260624_130943/slipintosoft_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/slipintosoft/20260624_130943/slipintosoft_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/slipintosoft/20260624_130943/slipintosoft_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/lumiraes.com_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/wp-lumiraes.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/lumiraes.com/合并1/wp-lumiraes.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/littleeedie/20260624_140210/littleeedie_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/littleeedie/20260624_140210/littleeedie_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/littleeedie/20260624_140210/littleeedie_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/littleeedie/20260624_140210/littleeedie_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/littleeedie_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/wp-littleeedie_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/olindras.com/合并1/wp-littleeedie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles_价格匹配(补).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles_价格匹配(补).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/sorenlys_styles_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/wp-sorenlys_styles_价格匹配(补).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/sorenlys.com/wp-sorenlys_styles_价格匹配(补)_新SKU.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/desiqlo/20260622_161540/desiqlo_shopify.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/desiqlo/20260622_161540/desiqlo_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/desiqlo/20260622_161540/desiqlo_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/desiqlo/20260622_161540/desiqlo_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/wp-xylaras.com_价格匹配（06261426）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/wp-xylaras.com_价格匹配（替换new的数据）.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/wp-xylaras.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_待匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/xylaras.com_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/新建文件夹/xylaras.com_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/新建文件夹/xylaras.com_原价_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/xylaras.com/合并/新建文件夹/xylaras.com_原价_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique-匹配价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique-未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/cottonique_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/wp-cottonique-匹配价格 - 副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_112738/wp-cottonique-匹配价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_134346/cottonique.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_134346/cottonique.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_134346/cottonique_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_134346/cottonique_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/cottonique.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/cottonique.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/cottonique_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/cottonique_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/cottonique_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260617_140155/wp-cottonique_原价_拆分.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/redlandcotton.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/redlandcotton.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/redlandcotton_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/redlandcotton_原价_拆分 - 副本.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/redlandcotton_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/合并-匹配价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_160612/合并-未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_161725/cozyearth.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_161725/cozyearth.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_161725/cozyearth_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_161725/cozyearth_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_175851/cozyearth.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_175851/cozyearth.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_175851/cozyearth_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260618_175851/cozyearth_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260621_094727/cozyearth.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260621_094727/cozyearth.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260621_094727/cozyearth_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0630/历史文件/20260621_094727/cozyearth_原价_拆分.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/civiclynx/civiclynx - 副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/civiclynx/civiclynx - 纯价格更新.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/civiclynx/civiclynx.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/clarityxs.com - 副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/clarityxs.com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/shopunderstatement_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/wp-shopunderstatement_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/clarityxs/shopunderstatement.com/20260703_144512/wp-shopunderstatement_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/jasperrocks/jasperrocks.com - 副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/0旧站改价格/jasperrocks/jasperrocks.com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/andieswim男/20260702_133134/andieswim_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/andieswim男/20260702_133134/andieswim_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/andieswim男/20260702_133134/andieswim_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/andieswim男/20260702_133134/andieswim_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/unproven.studio/20260701_140145/unproven_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com合并1/wp-unproven_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com合并1/wp-unproven_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com合并2/wp-vorians.com_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com合并2/wp-vorians.com_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/andieswim_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/vorians.com补/wp-andieswim_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/vorians.com补/wp-andieswim_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/wp-andieswim_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/1vorians.com/vorians.com补/wp-andieswim_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/kivoss.com合并/wp-velourgarments_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/kivoss.com合并/wp-velourgarments_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/velourgarments_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/wp-velourgarments_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/6kivoss.com/velourgarments/20260702_152024/wp-velourgarments_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/colorfulstandard/20260704_173715/colorfulstandard_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/colorfulstandard/20260704_173715/colorfulstandard_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/colorfulstandard/20260704_173715/colorfulstandard_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/colorfulstandard/20260704_173715/colorfulstandard_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/cornily.com （原价）合并.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/cornily.com （原价）合并_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/cornily.com （原价）合并_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/cornily.com （原价）合并_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/cornily.com （原价）合并_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/cornily.com （原价）合并/wp-cornily.com （原价）合并_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/goodamerican/20260704_171111/goodamerican_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/goodamerican/20260704_171111/goodamerican_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/goodamerican/20260704_171111/goodamerican_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/cornily.com （原价）/goodamerican/20260704_171111/goodamerican_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/hyishop.com  （原价）/blinged-brushes.myshopify.com/20260706_094128/blinged-brushes_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/hyishop.com  （原价）/blinged-brushes.myshopify.com/20260706_094128/blinged-brushes_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/hyishop.com  （原价）/blinged-brushes.myshopify.com/20260706_094128/blinged-brushes_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/hyishop.com  （原价）/blinged-brushes.myshopify.com/20260706_094128/hyishop.com  （原价）/wp-blinged-brushes_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/hyishop.com  （原价）/blinged-brushes.myshopify.com/20260706_094128/wp-blinged-brushes_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/activewearwell_com/20260708_154727/activewearwell_styles1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/andieswim女装/20260702_141559/andieswim_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/csv/quorias.com_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/csv/quorias.com_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/csv/wp-quorias.com_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/csv/wp-quorias.com_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/quorias.com_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/xlsx/quorias.com_styles_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/xlsx/quorias.com_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/quorias.com/xlsx/quorias.com_styles_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/quorias.com/wolventhreads/20260709_115426/wolventhreads_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/oliverspencer_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/wp-oliverspencer_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/wp-oliverspencer_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/zylars.com/wp-oliverspencer_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/周晓东/zylars.com/oliverspencer/20260707_160439/zylars.com/wp-oliverspencer_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并/wp-lyvoss.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并/wp-lyvoss.com合并_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/lyvoss.com合并_styles_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/wp-lyvoss.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并/wp-lyvoss.com合并_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并2/wp-lyvoss.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com合并2/wp-lyvoss.com合并_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/lyvoss.com补充/wp-popilush_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/lyvoss.com补充/wp-popilush_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/popilush_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/wp-popilush_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/lyvoss.com补充/wp-popilush_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/misslola.com/20260701_140159/misslola_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/misslola.com/20260701_140159/misslola_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/misslola.com/20260701_140159/misslola_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/misslola.com/20260701_140159/misslola_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com/20260701_140242/popilush_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com/20260701_140242/popilush_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com/20260701_140242/popilush_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com/20260701_140242/popilush_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com2/20260702_105101/popilush_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com2/20260702_105101/popilush_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com2/20260702_105101/popilush_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/2lyvoss.com/popilush.com2/20260702_105101/popilush_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/3mystralis.com/wp-modcloth_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/3mystralis.com/wp-modcloth_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/3mystralis.com/odcloth.com/20260701_140218/modcloth_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/discovercurtains.com/20260701_141651/discovercurtains_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/discovercurtains.com/20260701_141651/discovercurtains_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/discovercurtains.com/20260701_141651/discovercurtains_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/discovercurtains.com/20260701_141651/discovercurtains_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/secretlinenstore.com/20260701_152044/secretlinenstore_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/secretlinenstore.com/20260701_152044/secretlinenstore_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/secretlinenstore.com/20260701_152044/secretlinenstore_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/secretlinenstore.com/20260701_152044/secretlinenstore_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/umberscan.com合并_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/umberscan.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/umberscan.com合并_styles_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/umberscan.com合并_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/umberscan.com合并_styles_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/wp-umberscan.com合并_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/4umberscan.com/umberscan.com合并/wp-umberscan.com合并_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/alulion.com （原价）/proudpoppyclothing.com.au/20260704_094354/alulion.com （原价）/wp-proudpoppyclothing_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/alulion.com （原价）/proudpoppyclothing.com.au/20260704_094354/proudpoppyclothing_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/alulion.com （原价）/proudpoppyclothing.com.au/20260704_094354/proudpoppyclothing_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/alulion.com （原价）/proudpoppyclothing.com.au/20260704_094354/proudpoppyclothing_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/alulion.com （原价）/proudpoppyclothing.com.au/20260704_094354/wp-proudpoppyclothing_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/havenbagco化妆包/20260706_112706/havenbagco_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/havenbagco化妆包/20260706_112706/havenbagco_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/havenbagco化妆包/20260706_112706/havenbagco_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/havenbagco化妆包/20260706_112706/wp-havenbagco_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/heroim.com（原价）合并/heroim.com（原价）合并.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/mellowmonkey化妆包2/20260706_151528/mellowmonkey_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/mellowmonkey化妆包2/20260706_151528/mellowmonkey_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/mellowmonkey化妆包2/20260706_151528/mellowmonkey_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/mellowmonkey化妆包2/20260706_151528/mellowmonkey化妆包2/wp-mellowmonkey_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/mellowmonkey化妆包2/20260706_151528/wp-mellowmonkey_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/menssuitworld/20260704_111651/heroim.com（原价）/wp-menssuitworld_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/menssuitworld/20260704_111651/menssuitworld_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/menssuitworld/20260704_111651/menssuitworld_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/menssuitworld/20260704_111651/menssuitworld_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/menssuitworld/20260704_111651/wp-menssuitworld_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/modernmakerie化妆包3/20260706_151139/modernmakerie_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/modernmakerie化妆包3/20260706_151139/modernmakerie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/modernmakerie化妆包3/20260706_151139/modernmakerie_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/modernmakerie化妆包3/20260706_151139/modernmakerie化妆包3/wp-modernmakerie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/modernmakerie化妆包3/20260706_151139/wp-modernmakerie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/thecaselane化妆包5/20260706_175052/thecaselane_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/thecaselane化妆包5/20260706_175052/thecaselane_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/thecaselane化妆包5/20260706_175052/thecaselane_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/thecaselane化妆包5/20260706_175052/thecaselane化妆包5/wp-thecaselane_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/heroim.com（原价）/thecaselane化妆包5/20260706_175052/wp-thecaselane_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/bluebella女/20260704_144642/bluebella_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/bluebella女/20260704_144642/bluebella_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/bluebella女/20260704_144642/bluebella_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/bluebella女/20260704_144642/bluebella_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/colorfulstandard男2/20260704_144704/colorfulstandard_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/colorfulstandard男2/20260704_144704/colorfulstandard_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/colorfulstandard男2/20260704_144704/colorfulstandard_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/colorfulstandard男2/20260704_144704/colorfulstandard_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/linkymall.com （原价）合并1/linkymall.com （原价）合并1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/linkymall.com （原价）合并1/linkymall.com （原价）合并1_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/linkymall.com （原价）合并1/linkymall.com （原价）合并1_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/linkymall.com （原价）合并1/wp-linkymall.com （原价）合并1_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/purplecactuslingerie女/20260706_181932/purplecactuslingerie_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/purplecactuslingerie女/20260706_181932/purplecactuslingerie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/purplecactuslingerie女/20260706_181932/purplecactuslingerie_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/purplecactuslingerie女/20260706_181932/wp-purplecactuslingerie_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/stripeandstare女2/20260704_154156/stripeandstare_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/stripeandstare女2/20260704_154156/stripeandstare_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/stripeandstare女2/20260704_154156/stripeandstare_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/stripeandstare女2/20260704_154156/stripeandstare_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/wearkent男1/20260704_144654/wearkent_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/wearkent男1/20260704_144654/wearkent_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/wearkent男1/20260704_144654/wearkent_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/linkymall.com （原价）/wearkent男1/20260704_144654/wearkent_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/lyraxs.com/wp-thelionstyle_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/lyraxs.com/wp-thelionstyle_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/thelionstyle_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/wp-thelionstyle_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/lyraxs.com/thelionstyle/20260707_150122/wp-thelionstyle_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/activewearwell_com/20260708_154727/activewearwell_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/myovv/20260708_163357/myovv_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/csv/wp-yondras.com_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/csv/wp-yondras.com_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/csv/yondras.com_styles_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/csv/yondras.com_styles_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/xlsx/yondras.com_styles_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/xlsx/yondras.com_styles_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/xlsx/yondras.com_styles_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0701/陈港/yondras.com/yondras.com/yondras.com_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/aura-estore_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/aura-estore_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/aura-estore_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/aura-estore_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/wp-aura-estore_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/补vaxors.com数据/wp-aura-estore_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/csv/补zylars.com低价/wp-aura-estore_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/xlsx/aura-estore_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/xlsx/aura-estore_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/A0710/aura-estore.com/20260714_112524/xlsx/aura-estore_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/0716freesial.com泳衣.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/0716freesial.com泳衣/wp-0716freesial.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/0716freesial.com泳衣/wp-0716freesial.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/0716freesial.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/0716freesial.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/0716freesial.com泳衣_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/wp-0716freesial.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/csv/wp-0716freesial.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/xlsx/0716freesial.com泳衣_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/xlsx/0716freesial.com泳衣_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/0716freesial.com泳衣/xlsx/0716freesial.com泳衣_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/aliciaswim_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/csv/aliciaswim_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/csv/aliciaswim_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/csv/aliciaswim_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/xlsx/aliciaswim_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/xlsx/aliciaswim_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/aliciaswim/20260715_180048/xlsx/aliciaswim_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/csv/en.gringaswimwear_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/csv/en.gringaswimwear_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/csv/en.gringaswimwear_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/en.gringaswimwear_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/xlsx/en.gringaswimwear_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/xlsx/en.gringaswimwear_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/en.gringaswimwear.com/20260715_214120/xlsx/en.gringaswimwear_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/csv/shopdolcessa_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/csv/shopdolcessa_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/csv/shopdolcessa_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/shopdolcessa_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/xlsx/shopdolcessa_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/xlsx/shopdolcessa_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716freesial.com泳衣/shopdolcessa.com2/20260715_175237/xlsx/shopdolcessa_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/0716jordalis.com家居服.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/0716jordalis.com家居服/wp-0716jordalis.com家居服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/0716jordalis.com家居服/wp-0716jordalis.com家居服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/0716jordalis.com家居服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/0716jordalis.com家居服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/0716jordalis.com家居服_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/wp-0716jordalis.com家居服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/csv/wp-0716jordalis.com家居服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/xlsx/0716jordalis.com家居服_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/xlsx/0716jordalis.com家居服_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服/xlsx/0716jordalis.com家居服_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/0716jordalis.com家居服2/wp-lattelove_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/0716jordalis.com家居服2/wp-lattelove_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/lattelove_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/lattelove_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/lattelove_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/wp-lattelove_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/csv/wp-lattelove_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/lattelove_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/xlsx/lattelove_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/xlsx/lattelove_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/0716jordalis.com家居服2/xlsx/lattelove_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/csv/jvjstory_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/csv/jvjstory_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/csv/jvjstory_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/xlsx/jvjstory_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/xlsx/jvjstory_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/jvjstory_com/20260716_150639/xlsx/jvjstory_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/lattelove/20260716_150641/lattelove_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/csv/reveriethelabel_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/csv/reveriethelabel_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/csv/reveriethelabel_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/reveriethelabel_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/xlsx/reveriethelabel_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/xlsx/reveriethelabel_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716jordalis.com家居服/reveriethelabel/20260716_150643/xlsx/reveriethelabel_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/0716skyloren.com女装-裙子/wp-0716skyloren.com女装-裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/0716skyloren.com女装-裙子/wp-0716skyloren.com女装-裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/0716skyloren.com女装-裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/0716skyloren.com女装-裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/0716skyloren.com女装-裙子_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/wp-0716skyloren.com女装-裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/csv/wp-0716skyloren.com女装-裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/xlsx/0716skyloren.com女装-裙子_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/xlsx/0716skyloren.com女装-裙子_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/0716skyloren.com女装-裙子/xlsx/0716skyloren.com女装-裙子_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/csv/jojoandcoco_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/csv/jojoandcoco_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/csv/jojoandcoco_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/jojoandcoco_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/xlsx/jojoandcoco_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/xlsx/jojoandcoco_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/jojoandcoco/20260716_100303/xlsx/jojoandcoco_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/csv/plushboutiquebrentwood_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/csv/plushboutiquebrentwood_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/csv/plushboutiquebrentwood_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/plushboutiquebrentwood_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/xlsx/plushboutiquebrentwood_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/xlsx/plushboutiquebrentwood_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/plushboutiquebrentwood/20260716_100345/xlsx/plushboutiquebrentwood_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/csv/shopdressup_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/csv/shopdressup_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/csv/shopdressup_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/shopdressup_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/xlsx/shopdressup_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/xlsx/shopdressup_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopdressup.com/20260715_175212/xlsx/shopdressup_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/csv/shopwhilden_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/csv/shopwhilden_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/csv/shopwhilden_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/shopwhilden_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/xlsx/shopwhilden_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/xlsx/shopwhilden_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716skyloren.com女装-裙子/shopwhilden/20260716_100325/xlsx/shopwhilden_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/arneclo_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/0716yorellis.com休闲男装/wp-arneclo_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/0716yorellis.com休闲男装/wp-arneclo_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/arneclo_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/arneclo_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/arneclo_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/wp-arneclo_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/csv/wp-arneclo_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/xlsx/arneclo_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/xlsx/arneclo_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装/arneclo_com/20260716_165523/xlsx/arneclo_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/0716yorellis.com休闲男装2/wp-markandalbert_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/0716yorellis.com休闲男装2/wp-markandalbert_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/markandalbert_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/markandalbert_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/markandalbert_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/wp-markandalbert_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/csv/wp-markandalbert_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/markandalbert_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/xlsx/markandalbert_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/xlsx/markandalbert_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/0716yorellis.com休闲男装2/markandalbert_com/20260720_140325/xlsx/markandalbert_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/csv/istanbulfashion_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/csv/istanbulfashion_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/csv/istanbulfashion_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/istanbulfashion_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/xlsx/istanbulfashion_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/xlsx/istanbulfashion_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au/20260714_101126/xlsx/istanbulfashion_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/csv/istanbulfashion_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/csv/istanbulfashion_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/csv/istanbulfashion_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/istanbulfashion_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/xlsx/istanbulfashion_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/xlsx/istanbulfashion_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/istanbulfashion.com.au24/20260714_102234/xlsx/istanbulfashion_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/oxiums.com合并/wp-oxiums.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/oxiums.com合并/wp-oxiums.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/oxiums.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/oxiums.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/oxiums.com合并_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/wp-oxiums.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/csv/wp-oxiums.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/oxiums.com合并_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/xlsx/oxiums.com合并_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/xlsx/oxiums.com合并_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/周晓东/oxiums.com/oxiums.com合并/xlsx/oxiums.com合并_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/20260717_094951_jimiss.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/0716dahlinor.com女装-礼服/wp-20260717_094951_jimiss_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/0716dahlinor.com女装-礼服/wp-20260717_094951_jimiss_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/20260717_094951_jimiss_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/20260717_094951_jimiss_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/20260717_094951_jimiss_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/wp-20260717_094951_jimiss_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/csv/wp-20260717_094951_jimiss_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/xlsx/20260717_094951_jimiss_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/xlsx/20260717_094951_jimiss_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716dahlinor.com女装-礼服/xlsx/20260717_094951_jimiss_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/0716gaieon.com休闲女装.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/csv/0716gaieon.com休闲女装/wp-0716gaieon.com休闲女装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/csv/0716gaieon.com休闲女装/wp-0716gaieon.com休闲女装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/csv/0716gaieon.com休闲女装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/csv/0716gaieon.com休闲女装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/csv/0716gaieon.com休闲女装_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/xlsx/0716gaieon.com休闲女装_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/xlsx/0716gaieon.com休闲女装_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/0716gaieon.com休闲女装/xlsx/0716gaieon.com休闲女装_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/belleriveboutique_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/csv/belleriveboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/csv/belleriveboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/csv/belleriveboutique_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/xlsx/belleriveboutique_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/xlsx/belleriveboutique_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/belleriveboutique/20260716_100139/xlsx/belleriveboutique_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/csv/shopmodaboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/csv/shopmodaboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/csv/shopmodaboutique_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/shopmodaboutique_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/xlsx/shopmodaboutique_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/xlsx/shopmodaboutique_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716gaieon.com休闲女装/shopmodaboutique/20260716_100159/xlsx/shopmodaboutique_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/0716kelvae.com泳衣.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/0716kelvae.com泳衣/wp-0716kelvae.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/0716kelvae.com泳衣/wp-0716kelvae.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/0716kelvae.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/0716kelvae.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/0716kelvae.com泳衣_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/wp-0716kelvae.com泳衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/csv/wp-0716kelvae.com泳衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/xlsx/0716kelvae.com泳衣_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/xlsx/0716kelvae.com泳衣_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/0716kelvae.com泳衣/xlsx/0716kelvae.com泳衣_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/csv/shopcrush_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/csv/shopcrush_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/csv/shopcrush_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/shopcrush_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/xlsx/shopcrush_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/xlsx/shopcrush_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/shopcrush/20260716_101623/xlsx/shopcrush_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/csv/thecurvves_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/csv/thecurvves_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/csv/thecurvves_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/thecurvves_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/xlsx/thecurvves_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/xlsx/thecurvves_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716kelvae.com泳衣/thecurvves_com/20260716_111616/xlsx/thecurvves_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/0716ullore.com家居服内衣.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/0716ullore.com家居服内衣/wp-0716ullore.com家居服内衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/0716ullore.com家居服内衣/wp-0716ullore.com家居服内衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/0716ullore.com家居服内衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/0716ullore.com家居服内衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/0716ullore.com家居服内衣_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/wp-0716ullore.com家居服内衣_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/csv/wp-0716ullore.com家居服内衣_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/xlsx/0716ullore.com家居服内衣_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/xlsx/0716ullore.com家居服内衣_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0716ullore.com家居服内衣/xlsx/0716ullore.com家居服内衣_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/0722ullore.com家居服内衣/wp-desmondanddempsey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/0722ullore.com家居服内衣/wp-desmondanddempsey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/desmondanddempsey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/desmondanddempsey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/desmondanddempsey_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/wp-desmondanddempsey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/csv/wp-desmondanddempsey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/desmondanddempsey_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/xlsx/desmondanddempsey_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/xlsx/desmondanddempsey_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣/xlsx/desmondanddempsey_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/0722ullore.com家居服内衣2/wp-jvjstory_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/0722ullore.com家居服内衣2/wp-jvjstory_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/jvjstory_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/jvjstory_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/wp-jvjstory_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/0722ullore.com家居服内衣2/wp-jvjstory_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/desmondanddempsey_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/lattelove/20260716_150641/lattelove_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/0716ullore.com家居服内衣/printfresh/20260717_111856/printfresh_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/coreclassic.com/20260714_093204/coreclassic_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/csv/macandclay_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/csv/macandclay_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/csv/macandclay_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/macandclay_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/xlsx/macandclay_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/xlsx/macandclay_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/macandclay.com/20260714_094547/xlsx/macandclay_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/csv/under510_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/csv/under510_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/csv/under510_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/under510_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/xlsx/under510_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/xlsx/under510_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/under510.com/20260714_094610/xlsx/under510_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/vaxors.com合并/wp-vaxors.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/vaxors.com合并/wp-vaxors.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/vaxors.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/vaxors.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/vaxors.com合并_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/wp-vaxors.com合并_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/csv/wp-vaxors.com合并_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/vaxors.com合并_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/xlsx/vaxors.com合并_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/xlsx/vaxors.com合并_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0710/陈港/vaxors.com/vaxors.com合并/xlsx/vaxors.com合并_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/csv/desmondanddempsey_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/desmondanddempsey_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/desmondanddempsey_com/20260722_111553/xlsx/desmondanddempsey_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/chatsworthboutique_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/chatsworthboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/chatsworthboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/chatsworthboutique_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/midsummera.com男女装日常休闲款1/wp-chatsworthboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/midsummera.com男女装日常休闲款1/wp-chatsworthboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/wp-chatsworthboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/csv/wp-chatsworthboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/xlsx/chatsworthboutique_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/xlsx/chatsworthboutique_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/20260728_140120/xlsx/chatsworthboutique_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/chatsworthboutique/chatsworthboutique_详细链接.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/csv/folkclothing_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/csv/folkclothing_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/csv/folkclothing_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/folkclothing_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/xlsx/folkclothing_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/xlsx/folkclothing_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/folkclothing.com/20260727_151741/xlsx/folkclothing_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/csv/harperandco.net.au_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/csv/harperandco.net.au_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/csv/harperandco.net.au_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/harperandco.net.au_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/xlsx/harperandco.net.au_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/xlsx/harperandco.net.au_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/harperandco_net_au/20260727_152815/xlsx/harperandco.net.au_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/midsummera.com男女装日常休闲款/wp-midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/midsummera.com男女装日常休闲款/wp-midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/midsummera.com男女装日常休闲款_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/wp-midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/csv/wp-midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/xlsx/midsummera.com男女装日常休闲款_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/xlsx/midsummera.com男女装日常休闲款_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款/xlsx/midsummera.com男女装日常休闲款_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款1/wp-chatsworthboutique_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款1/wp-chatsworthboutique_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/midsummera.com男女装日常休闲款2纯男装/wp-midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/midsummera.com男女装日常休闲款2纯男装/wp-midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/midsummera.com男女装日常休闲款_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/wp-midsummera.com男女装日常休闲款_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/csv/wp-midsummera.com男女装日常休闲款_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/midsummera.com男女装日常休闲款.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/xlsx/midsummera.com男女装日常休闲款_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/xlsx/midsummera.com男女装日常休闲款_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/midsummera.com男女装日常休闲款/midsummera.com男女装日常休闲款2纯男装/xlsx/midsummera.com男女装日常休闲款_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/adinas-bridal-myshopify_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/csv/adinas-bridal-myshopify_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/csv/adinas-bridal-myshopify_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/csv/adinas-bridal-myshopify_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/xlsx/adinas-bridal-myshopify_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/xlsx/adinas-bridal-myshopify_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/adinas-bridal_myshopify_com/20260723_104200/xlsx/adinas-bridal-myshopify_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/always-elegant-bridal-myshopify_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/csv/always-elegant-bridal-myshopify_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/csv/always-elegant-bridal-myshopify_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/csv/always-elegant-bridal-myshopify_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/xlsx/always-elegant-bridal-myshopify_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/xlsx/always-elegant-bridal-myshopify_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/always-elegant-bridal_myshopify_com/20260723_104213/xlsx/always-elegant-bridal-myshopify_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/moonlitva.com婚纱礼服/wp-moonlitva.com婚纱礼服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/moonlitva.com婚纱礼服/wp-moonlitva.com婚纱礼服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/moonlitva.com婚纱礼服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/moonlitva.com婚纱礼服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/moonlitva.com婚纱礼服_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/wp-moonlitva.com婚纱礼服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/csv/wp-moonlitva.com婚纱礼服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/xlsx/moonlitva.com婚纱礼服_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/xlsx/moonlitva.com婚纱礼服_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/moonlitva.com婚纱礼服/moonlitva.com婚纱礼服/xlsx/moonlitva.com婚纱礼服_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/pureskyva.com短袖T恤/wp-threadheads_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/pureskyva.com短袖T恤/wp-threadheads_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/threadheads_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/threadheads_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/threadheads_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/wp-threadheads_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/csv/wp-threadheads_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/threadheads_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/xlsx/threadheads_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/xlsx/threadheads_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/pureskyva.com短袖T恤/threadheads_com/20260727_171157/xlsx/threadheads_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/90degreebyreflex_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/csv/90degreebyreflex_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/csv/90degreebyreflex_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/csv/90degreebyreflex_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/xlsx/90degreebyreflex_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/xlsx/90degreebyreflex_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/90degreebyreflex.com/20260724_111341/xlsx/90degreebyreflex_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/atmo-sportswear_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/csv/atmo-sportswear_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/csv/atmo-sportswear_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/csv/atmo-sportswear_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/xlsx/atmo-sportswear_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/xlsx/atmo-sportswear_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/atmo-sportswear/20260724_113144/xlsx/atmo-sportswear_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/seabreezeva.com运动装/wp-seabreezeva.com运动装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/seabreezeva.com运动装/wp-seabreezeva.com运动装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/seabreezeva.com运动装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/seabreezeva.com运动装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/seabreezeva.com运动装_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/wp-seabreezeva.com运动装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/csv/wp-seabreezeva.com运动装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/seabreezeva.com运动装.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/xlsx/seabreezeva.com运动装_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/xlsx/seabreezeva.com运动装_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/seabreezeva.com运动装/seabreezeva.com运动装/xlsx/seabreezeva.com运动装_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/birchiris_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/csv/birchiris_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/csv/birchiris_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/csv/birchiris_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/xlsx/birchiris_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/xlsx/birchiris_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/birchiris_com/20260721_180702/xlsx/birchiris_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/csv/katnoelle_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/csv/katnoelle_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/csv/katnoelle_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/katnoelle_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/xlsx/katnoelle_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/xlsx/katnoelle_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/katnoelle_com/20260721_180705/xlsx/katnoelle_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/sunsetava.com休闲女装/wp-sunsetava.com休闲女装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/sunsetava.com休闲女装/wp-sunsetava.com休闲女装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/sunsetava.com休闲女装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/sunsetava.com休闲女装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/sunsetava.com休闲女装_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/wp-sunsetava.com休闲女装_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/wp-sunsetava.com休闲女装_Shopify_价格匹配.csv1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/csv/wp-sunsetava.com休闲女装_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/sunsetava.com休闲女装.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/xlsx/sunsetava.com休闲女装_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/xlsx/sunsetava.com休闲女装_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/sunsetava.com休闲女装/sunsetava.com休闲女装/xlsx/sunsetava.com休闲女装_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/akiso_store_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/csv/akiso_store_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/csv/akiso_store_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/csv/akiso_store_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/xlsx/akiso_store_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/xlsx/akiso_store_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/akiso_store/20260721_165735/xlsx/akiso_store_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/asivanayoga_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/csv/asivanayoga_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/csv/asivanayoga_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/csv/asivanayoga_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/xlsx/asivanayoga_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/xlsx/asivanayoga_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/asivanayoga_com/20260721_173526/xlsx/asivanayoga_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/csv/lunaandsoul_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/csv/lunaandsoul_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/csv/lunaandsoul_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/lunaandsoul_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/xlsx/lunaandsoul_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/xlsx/lunaandsoul_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/lunaandsoul/20260721_165002/xlsx/lunaandsoul_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/akiso_store_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/akiso_store_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/akiso_store_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/akiso_store_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/tranquilza.com替换New Arrivals/wp-akiso_store_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/tranquilza.com替换New Arrivals/wp-akiso_store_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/wp-akiso_store_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/csv/wp-akiso_store_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/xlsx/akiso_store_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/xlsx/akiso_store_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com替换New Arrivals/akiso_store/20260724_090359/xlsx/akiso_store_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽/wp-tranquilza.com瑜伽_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽/wp-tranquilza.com瑜伽_Shopify_价格匹配1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽/wp-tranquilza.com瑜伽_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/tranquilza.com瑜伽_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/wp-tranquilza.com瑜伽_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/csv/wp-tranquilza.com瑜伽_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/tranquilza.com瑜伽.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/xlsx/tranquilza.com瑜伽_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/xlsx/tranquilza.com瑜伽_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽/xlsx/tranquilza.com瑜伽_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/asivanayoga_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/asivanayoga_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/asivanayoga_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/asivanayoga_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/tranquilza.com瑜伽2_后补/wp-asivanayoga_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/tranquilza.com瑜伽2_后补/wp-asivanayoga_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/wp-asivanayoga_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/csv/wp-asivanayoga_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/xlsx/asivanayoga_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/xlsx/asivanayoga_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/tranquilza.com瑜伽2_后补/xlsx/asivanayoga_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/csv/yogaaccessories_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/csv/yogaaccessories_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/csv/yogaaccessories_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/xlsx/yogaaccessories_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/xlsx/yogaaccessories_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/xlsx/yogaaccessories_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/tranquilza.com瑜伽服瑜伽用品/yogaaccessories_com/20260721_170605/yogaaccessories_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/csv/cyberjammies_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/csv/cyberjammies_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/csv/cyberjammies_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/cyberjammies_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/xlsx/cyberjammies_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/xlsx/cyberjammies_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/cyberjammies_com/20260721_142154/xlsx/cyberjammies_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/csv/eberjey_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/csv/eberjey_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/csv/eberjey_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/eberjey_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/xlsx/eberjey_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/xlsx/eberjey_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/eberjey_com/20260721_140405/xlsx/eberjey_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/twilightza.com居家服/wp-twilightza.com居家服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/twilightza.com居家服/wp-twilightza.com居家服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/twilightza.com居家服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/twilightza.com居家服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/twilightza.com居家服_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/wp-twilightza.com居家服_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/csv/wp-twilightza.com居家服_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/twilightza.com居家服.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/xlsx/twilightza.com居家服_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/xlsx/twilightza.com居家服_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/twilightza.com居家服睡衣/twilightza.com居家服/xlsx/twilightza.com居家服_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/20260721_170822_jimiss.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/csv/houseofdazzle_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/csv/houseofdazzle_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/csv/houseofdazzle_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/houseofdazzle_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/xlsx/houseofdazzle_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/xlsx/houseofdazzle_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/houseofdazzle/20260721_155541/xlsx/houseofdazzle_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wildflowera.com裙子/wp-wildflowera.com裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wildflowera.com裙子/wp-wildflowera.com裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wildflowera.com裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wildflowera.com裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wildflowera.com裙子_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wp-wildflowera.com裙子_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/csv/wp-wildflowera.com裙子_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/wildflowera.com裙子.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/xlsx/wildflowera.com裙子_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/xlsx/wildflowera.com裙子_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0721/wildflowera.com裙子/wildflowera.com裙子/xlsx/wildflowera.com裙子_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/aurelinas.com礼服/wp-lovedandco_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/aurelinas.com礼服/wp-lovedandco_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/lovedandco_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/lovedandco_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/lovedandco_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/wp-lovedandco_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/csv/wp-lovedandco_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/lovedandco_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/xlsx/lovedandco_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/xlsx/lovedandco_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/aurelinas.com礼服/lovedandco.com/20260730_180204/xlsx/lovedandco_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/halcys.com内衣家居服/wp-shophoneydew_com_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/halcys.com内衣家居服/wp-shophoneydew_com_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/shophoneydew_com_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/shophoneydew_com_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/shophoneydew_com_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/wp-shophoneydew_com_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/csv/wp-shophoneydew_com_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/shophoneydew_com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/shophoneydew_com.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/xlsx/shophoneydew_com_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/xlsx/shophoneydew_com_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/halcys.com内衣家居服/xlsx/shophoneydew_com_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/kestrs.com男装/wp-mnml_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/kestrs.com男装/wp-mnml_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/mnml_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/mnml_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/mnml_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/wp-mnml_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/csv/wp-mnml_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/mnml_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/xlsx/mnml_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/xlsx/mnml_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/kestrs.com男装/mnml_la/20260730_180215/xlsx/mnml_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/lindvs.com连衣裙/wp-lindvs.com连衣裙_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/lindvs.com连衣裙/wp-lindvs.com连衣裙_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/lindvs.com连衣裙_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/lindvs.com连衣裙_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/lindvs.com连衣裙_styles_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/wp-lindvs.com连衣裙_styles_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/csv/wp-lindvs.com连衣裙_styles_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/lindvs.com连衣裙_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/xlsx/lindvs.com连衣裙_styles_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/xlsx/lindvs.com连衣裙_styles_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/lindvs.com连衣裙/xlsx/lindvs.com连衣裙_styles_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/meuboutique.myshopify.com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/shopinkeriboutique.com/20260730_180201/shopinkeriboutique_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/shopkla.com/20260730_180202/shopkla_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/swagg-boutique-llc.myshopify.com/20260730_175855/swagg_boutique_styles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/lindvs.com连衣裙/tresbienboutique.com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/vestf.com职业装-女/wp-vestf.com职业装-女_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/vestf.com职业装-女/wp-vestf.com职业装-女_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/vestf.com职业装-女_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/vestf.com职业装-女_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/vestf.com职业装-女_Shopify_未匹配到的价格.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/wp-vestf.com职业装-女_Shopify_价格匹配.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/csv/wp-vestf.com职业装-女_Shopify_原价.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/mmlafleur_com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/mmlafleur_com13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/vestf.com职业装-女.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/workinstyleboutique_com.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/xlsx/vestf.com职业装-女_Shopify_价格匹配.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/xlsx/vestf.com职业装-女_Shopify_原价.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A产出/A0730/vestf.com职业装-女/xlsx/vestf.com职业装-女_Shopify_未匹配到的价格.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5f7e55091a2e67ff236829fd26d3635b35ddd608" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mrtx233&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Mrtx233/anglan_crawler.git&quot;,
+    &quot;accountId&quot;: &quot;c4e63aa0-3671-4a60-b97a-68d87e66dca3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3F1RFdoPAojZzHaPCjkrfUwkuDn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01转shopify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01转shopify_价格排序.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02价格排序.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02审核站新价格匹配-价格排序.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03shopify转WP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04wp还原shopify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04价格检查 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.04价格检查.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05shopify还原styles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05wp还原shopify (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.06SKU独立查重.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06shopify还原styles (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.aliciaswim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo_playwright.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detail_link_collector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detail_link_page (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.detail_link_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detail_link_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python.en_gringaswimwear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jimiss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.macandclay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newscrapyer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quince.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_xlsx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_brands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_brands_gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scraper_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scrapyer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopdolcessa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopdressup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.switch_gui (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.switch_gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_requests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webp_to_jpg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wp_images_trim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wp_sku_to_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.价格检查.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/C_code/anglan_crawler/A产出/A0730/vestf.com职业装-女&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C_code\anglan_crawler\A产出\A0730\vestf.com职业装-女" />
+      <recent name="D:\C_code\anglan_crawler\A产出\A0730" />
+      <recent name="D:\C_code\anglan_crawler\04utils" />
+      <recent name="D:\C_code\anglan_crawler\A产出\A0721\midsummera.com男女装日常休闲款" />
+      <recent name="D:\C_code\anglan_crawler\A产出\A0721" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C_code\anglan_crawler\A产出\A0730\lindvs.com连衣裙" />
+      <recent name="D:\C_code\anglan_crawler\A产出\A0730" />
+      <recent name="D:\C_code\anglan_crawler\shopify_json\shopify_json\spiders\Historical" />
+      <recent name="D:\C_code\anglan_crawler\01xlsx\A0730\陈港\vestf.com职业装-女" />
+      <recent name="D:\C_code\anglan_crawler\01xlsx\A0730\周晓东\kestrs.com男装" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.03shopify转WP">
+    <configuration name="03shopify转WP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03switch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03switch/03shopify转WP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detail_link_page (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02crawler/detail_link" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02crawler/detail_link/detail_link_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detail_link_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02crawler/detail_link_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="replace_brands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04utils/replace_brands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="replace_brands_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04utils/replace_brands_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="switch_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03switch/exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03switch/exe/switch_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="switch_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anglan_crawler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03switch/exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03switch/exe/switch_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03shopify转WP" />
+        <item itemvalue="Python.switch_gui" />
+        <item itemvalue="Python.detail_link_page (1)" />
+        <item itemvalue="Python.replace_brands_gui" />
+        <item itemvalue="Python.replace_brands" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a8756861-eadc-4c24-9c55-5a5cc4c21253" name="更改" comment="" />
+      <created>1781240487682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781240487682</updated>
+      <workItem from="1781240488499" duration="601000" />
+      <workItem from="1781241331266" duration="3012000" />
+      <workItem from="1781247335760" duration="1760000" />
+      <workItem from="1781251076822" duration="7659000" />
+      <workItem from="1781274670123" duration="2340000" />
+      <workItem from="1782100429374" duration="7442000" />
+      <workItem from="1782116097745" duration="17793000" />
+      <workItem from="1782199431771" duration="54779000" />
+      <workItem from="1782379340136" duration="82931000" />
+      <workItem from="1782983684822" duration="83316000" />
+      <workItem from="1783566209867" duration="47120000" />
+      <workItem from="1784016047016" duration="2367000" />
+      <workItem from="1784082307272" duration="48115000" />
+      <workItem from="1784270266533" duration="661000" />
+      <workItem from="1784276252422" duration="2236000" />
+      <workItem from="1784526908884" duration="3422000" />
+      <workItem from="1784602295432" duration="19261000" />
+      <workItem from="1784688939468" duration="2885000" />
+      <workItem from="1784700003491" duration="4423000" />
+      <workItem from="1784772486010" duration="5701000" />
+      <workItem from="1784791591708" duration="11559000" />
+      <workItem from="1784857952457" duration="463000" />
+      <workItem from="1784858625221" duration="404000" />
+      <workItem from="1784859209686" duration="12607000" />
+      <workItem from="1784898159540" duration="30835000" />
+      <workItem from="1785228426477" duration="3914000" />
+      <workItem from="1785304612451" duration="4286000" />
+      <workItem from="1785318013464" duration="4659000" />
+      <workItem from="1785383199328" duration="27590000" />
+      <workItem from="1785479960460" duration="136000" />
+      <workItem from="1785489397662" duration="1472000" />
+      <workItem from="1785547263305" duration="1037000" />
+      <workItem from="1785724212588" duration="685000" />
+      <workItem from="1785729283842" duration="22000" />
+      <workItem from="1785738550562" duration="412000" />
+      <workItem from="1785815540892" duration="1332000" />
+      <workItem from="1786081573657" duration="135000" />
+      <workItem from="1786089565780" duration="257000" />
+      <workItem from="1788233240145" duration="63000" />
+      <workItem from="1789376225404" duration="388000" />
+      <workItem from="1789381485153" duration="698000" />
+      <workItem from="1790219137008" duration="137000" />
+      <workItem from="1790682108352" duration="362000" />
+      <workItem from="1790682986767" duration="59000" />
+      <workItem from="1790731445981" duration="850000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据提交">
+      <option name="closed" value="true" />
+      <created>1782119225050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782119225051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="数据提交2 beletras">
+      <option name="closed" value="true" />
+      <created>1782122889931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782122889931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="泳装 以及回退程序">
+      <option name="closed" value="true" />
+      <created>1782269106904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782269106904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="switch_gui.py 修复 及上周工作表">
+      <option name="closed" value="true" />
+      <created>1782697788163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782697788163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0714">
+      <option name="closed" value="true" />
+      <created>1784001477311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784001477311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0720">
+      <option name="closed" value="true" />
+      <created>1784612825570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784612825570</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0721">
+      <option name="closed" value="true" />
+      <created>1784627026737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784627026737</updated>
+    </task>
+    <task id="LOCAL-00008" summary="0721-1">
+      <option name="closed" value="true" />
+      <created>1784630526072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784630526072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="moonlitva.com&#9;婚纱礼服">
+      <option name="closed" value="true" />
+      <created>1784787951067</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784787951067</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tranquilza.com替换New Arrivals">
+      <option name="closed" value="true" />
+      <created>1784856753796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784856753797</updated>
+    </task>
+    <task id="LOCAL-00011" summary="seabreezeva.com">
+      <option name="closed" value="true" />
+      <created>1784864759887</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784864759887</updated>
+    </task>
+    <task id="LOCAL-00012" summary="midsummera.com&#9;男女装-日常休闲款">
+      <option name="closed" value="true" />
+      <created>1785142217044</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1785142217044</updated>
+    </task>
+    <task id="LOCAL-00013" summary="pureskyva.com&#9;短袖T恤">
+      <option name="closed" value="true" />
+      <created>1785203622778</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785203622778</updated>
+    </task>
+    <task id="LOCAL-00014" summary="md文档更新">
+      <option name="closed" value="true" />
+      <created>1789381540201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1789381540201</updated>
+    </task>
+    <task id="LOCAL-00015" summary="废弃项目 最后一次更新">
+      <option name="closed" value="true" />
+      <created>1790683033994</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1790683033994</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据提交" />
+    <MESSAGE value="数据提交2 beletras" />
+    <MESSAGE value="泳装 以及回退程序" />
+    <MESSAGE value="switch_gui.py 修复 及上周工作表" />
+    <MESSAGE value="0714" />
+    <MESSAGE value="0720" />
+    <MESSAGE value="0721" />
+    <MESSAGE value="0721-1" />
+    <MESSAGE value="moonlitva.com&#9;婚纱礼服" />
+    <MESSAGE value="tranquilza.com替换New Arrivals" />
+    <MESSAGE value="seabreezeva.com" />
+    <MESSAGE value="midsummera.com&#9;男女装-日常休闲款" />
+    <MESSAGE value="pureskyva.com&#9;短袖T恤" />
+    <MESSAGE value="md文档更新" />
+    <MESSAGE value="废弃项目 最后一次更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="废弃项目 最后一次更新" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/anglan_crawler$shopdolcessa.coverage" NAME="shopdolcessa 覆盖结果" MODIFIED="1784105089535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$03shopifyWP.coverage" NAME="03shopify转WP 覆盖结果" MODIFIED="1790219248495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$detail_link_scroll.coverage" NAME="detail_link_scroll 覆盖结果" MODIFIED="1783498087874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$read_links.coverage" NAME="read_links 覆盖结果" MODIFIED="1781254390906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0612work" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$switch_gui.coverage" NAME="switch_gui 覆盖结果" MODIFIED="1785478088451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch/exe" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$scraper_v1.coverage" NAME="scraper_v1 覆盖结果" MODIFIED="1781251098214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01quince_playwright" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$05wpshopify__1_.coverage" NAME="05wp还原shopify (1) 覆盖结果" MODIFIED="1782268836817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$04.coverage" NAME="04价格检查 覆盖结果" MODIFIED="1782465277845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$detail_link_page__1_.coverage" NAME="detail_link_page (1) 覆盖结果" MODIFIED="1785466988551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler/detail_link" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$01shopify_.coverage" NAME="01转shopify_价格排序 覆盖结果" MODIFIED="1782369334610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$replace_brands_gui.coverage" NAME="replace_brands_gui 覆盖结果" MODIFIED="1785317616226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04utils" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$shopdressup.coverage" NAME="shopdressup 覆盖结果" MODIFIED="1784098837120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$04__1_.coverage" NAME="04价格检查 (1) 覆盖结果" MODIFIED="1782266642067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$aliciaswim.coverage" NAME="aliciaswim 覆盖结果" MODIFIED="1784103231790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$02_.coverage" NAME="02审核站新价格匹配-价格排序 覆盖结果" MODIFIED="1782208627546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$wp_sku_to_json.coverage" NAME="wp_sku_to_json 覆盖结果" MODIFIED="1782721153325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$en_gringaswimwear.coverage" NAME="en_gringaswimwear 覆盖结果" MODIFIED="1784103288315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$02.coverage" NAME="02价格排序 覆盖结果" MODIFIED="1783044010738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$jimiss.coverage" NAME="jimiss 覆盖结果" MODIFIED="1784624900962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$detail_link_collector.coverage" NAME="detail_link_collector 覆盖结果" MODIFIED="1783476482758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$switch_gui__1_.coverage" NAME="switch_gui (1) 覆盖结果" MODIFIED="1782453741712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch/exe" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$read_xlsx.coverage" NAME="read_xlsx 覆盖结果" MODIFIED="1781248793660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01quince_playwright" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$demo_playwright.coverage" NAME="demo_playwright 覆盖结果" MODIFIED="1781274736279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_demo/playwright" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$06SKU.coverage" NAME="06SKU独立查重 覆盖结果" MODIFIED="1782270672727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$wp_images_trim.coverage" NAME="wp_images_trim 覆盖结果" MODIFIED="1782294357376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04utils" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$replace_brands.coverage" NAME="replace_brands 覆盖结果" MODIFIED="1785316867732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04utils" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$05shopifystyles.coverage" NAME="05shopify还原styles 覆盖结果" MODIFIED="1782268178724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$.coverage" NAME="价格检查 覆盖结果" MODIFIED="1782206300161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$newscrapyer.coverage" NAME="newscrapyer 覆盖结果" MODIFIED="1781257548057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/echelonhome" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$test_requests.coverage" NAME="test_requests 覆盖结果" MODIFIED="1781248965262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01quince_playwright" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$quince.coverage" NAME="quince 覆盖结果" MODIFIED="1783499309448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$04wpshopify.coverage" NAME="04wp还原shopify 覆盖结果" MODIFIED="1782267339430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$01shopify.coverage" NAME="01转shopify 覆盖结果" MODIFIED="1782359492268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$macandclay.coverage" NAME="macandclay 覆盖结果" MODIFIED="1784017733910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$detail_link_page.coverage" NAME="detail_link_page 覆盖结果" MODIFIED="1785143163113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$06shopifystyles__1_.coverage" NAME="06shopify还原styles (1) 覆盖结果" MODIFIED="1782268864029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03switch" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$webp_to_jpg.coverage" NAME="webp_to_jpg 覆盖结果" MODIFIED="1782351470911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04utils" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$scrapyer.coverage" NAME="scrapyer 覆盖结果" MODIFIED="1781258411135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/echelonhome" />
+    <SUITE FILE_PATH="coverage/anglan_crawler$quick_test.coverage" NAME="quick_test 覆盖结果" MODIFIED="1781258263235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/echelonhome" />
+  </component>
+</project>

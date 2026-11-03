@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8756861-eadc-4c24-9c55-5a5cc4c21253" name="更改" comment="废弃项目 最后一次更新" />
+    <list default="true" id="a8756861-eadc-4c24-9c55-5a5cc4c21253" name="更改" comment=".gitignore&#10;README.md&#10;requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +98,8 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/C_code/anglan_crawler/A产出/A0730/vestf.com职业装-女&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/C_code/anglan_crawler&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -104,11 +107,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C_code\anglan_crawler" />
       <recent name="D:\C_code\anglan_crawler\A产出\A0730\vestf.com职业装-女" />
       <recent name="D:\C_code\anglan_crawler\A产出\A0730" />
       <recent name="D:\C_code\anglan_crawler\04utils" />
       <recent name="D:\C_code\anglan_crawler\A产出\A0721\midsummera.com男女装日常休闲款" />
-      <recent name="D:\C_code\anglan_crawler\A产出\A0721" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\C_code\anglan_crawler\A产出\A0730\lindvs.com连衣裙" />
@@ -307,7 +310,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-python-sdk-84eaadda3698-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.51" />
       </set>
     </attachedChunks>
   </component>
@@ -363,6 +366,7 @@
       <workItem from="1790682108352" duration="362000" />
       <workItem from="1790682986767" duration="59000" />
       <workItem from="1790731445981" duration="1008000" />
+      <workItem from="1790732465534" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="数据提交">
       <option name="closed" value="true" />
@@ -492,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790732320978</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".gitignore&#10;README.md&#10;requirements.txt">
+      <option name="closed" value="true" />
+      <created>1790732708386</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1790732708386</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +537,8 @@
     <MESSAGE value="pureskyva.com&#9;短袖T恤" />
     <MESSAGE value="md文档更新" />
     <MESSAGE value="废弃项目 最后一次更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="废弃项目 最后一次更新" />
+    <MESSAGE value=".gitignore&#10;README.md&#10;requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore&#10;README.md&#10;requirements.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/anglan_crawler$shopdolcessa.coverage" NAME="shopdolcessa 覆盖结果" MODIFIED="1784105089535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02crawler" />
